@@ -18,3 +18,14 @@
 	padding-top: 1em;
 	border-top: solid 1px #fff;
 }
+
+@media (prefers-color-scheme: light) {
+	.question-card {
+		background-color: #e6e6e6;
+		border-color: #313131;
+	}
+
+	.question-answer {
+		border-top-color: #000;
+	}
+}
