@@ -1,0 +1,742 @@
+[
+    {
+        "text": "Quel est le rôle principal de la macroscopie en anatomopathologie ?",
+        "answer": "Décrire, orienter et prélever les pièces anatomiques avant l’examen microscopique"
+    },
+    {
+        "text": "Quel professionnel valide médicalement la macroscopie en France ?",
+        "answer": "Le médecin pathologiste"
+    },
+    {
+        "text": "Quel fixateur est le plus utilisé en macroscopie ?",
+        "answer": "Le formol tamponné à 10 %"
+    },
+    {
+        "text": "Quel est le risque principal lié au formol ?",
+        "answer": "Un risque cancérogène et toxique par inhalation"
+    },
+    {
+        "text": "Quel EPI est obligatoire lors de la macroscopie ?",
+        "answer": "Gants, blouse et protection oculaire"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce opératoire ?",
+        "answer": "Un organe ou fragment d’organe retiré lors d’une intervention chirurgicale"
+    },
+    {
+        "text": "Que signifie le terme 'orientation' d’une pièce ?",
+        "answer": "Repérer les faces anatomiques pour l’analyse des marges"
+    },
+    {
+        "text": "À quoi sert l’encrage des marges ?",
+        "answer": "Identifier les limites chirurgicales lors de l’examen microscopique"
+    },
+    {
+        "text": "Quel type d’encre est utilisé en macroscopie ?",
+        "answer": "Encre de Chine ou encre histologique"
+    },
+    {
+        "text": "Que signifie R0 en pathologie tumorale ?",
+        "answer": "Exérèse complète sans résidu tumoral"
+    },
+    {
+        "text": "Que signifie R1 ?",
+        "answer": "Présence de cellules tumorales au contact d’une marge"
+    },
+    {
+        "text": "Qu’est-ce qu’une biopsie ?",
+        "answer": "Un prélèvement tissulaire de petite taille à visée diagnostique"
+    },
+    {
+        "text": "Quelle est la différence entre biopsie et exérèse ?",
+        "answer": "La biopsie est partielle, l’exérèse est complète"
+    },
+    {
+        "text": "Pourquoi mesurer une pièce opératoire ?",
+        "answer": "Pour documenter sa taille et orienter l’analyse diagnostique"
+    },
+    {
+        "text": "Quel outil est utilisé pour les coupes macroscopiques ?",
+        "answer": "Un couteau de macroscopie ou un scalpel"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement représentatif ?",
+        "answer": "Un fragment reflétant fidèlement la lésion"
+    },
+    {
+        "text": "Pourquoi la traçabilité est-elle essentielle ?",
+        "answer": "Pour garantir l’identification et la sécurité du patient"
+    },
+    {
+        "text": "Quel document accompagne obligatoirement une pièce ?",
+        "answer": "La feuille de demande d’examen anatomopathologique"
+    },
+    {
+        "text": "Qu’est-ce qu’un numéro d’enregistrement ?",
+        "answer": "Un identifiant unique attribué à un prélèvement"
+    },
+    {
+        "text": "Quelle est la durée minimale de fixation au formol ?",
+        "answer": "Environ 24 heures selon la taille de la pièce"
+    },
+    {
+        "text": "Pourquoi éviter une fixation insuffisante ?",
+        "answer": "Elle altère la qualité de l’analyse histologique"
+    },
+    {
+        "text": "Qu’est-ce qu’une marge chirurgicale ?",
+        "answer": "La limite entre le tissu retiré et le tissu restant"
+    },
+    {
+        "text": "Que signifie macroscopiquement une lésion ulcérée ?",
+        "answer": "Une perte de substance de la surface tissulaire"
+    },
+    {
+        "text": "Qu’est-ce qu’une lésion infiltrante ?",
+        "answer": "Une lésion qui envahit les tissus adjacents"
+    },
+    {
+        "text": "Quel est le rôle du technicien en macroscopie ?",
+        "answer": "Préparer, décrire et prélever sous responsabilité médicale"
+    },
+    {
+        "text": "Quel texte encadre la biologie médicale en France ?",
+        "answer": "Le Code de la santé publique"
+    },
+    {
+        "text": "La macroscopie peut-elle être déléguée ?",
+        "answer": "Oui, sous protocole validé par le pathologiste"
+    },
+    {
+        "text": "Qu’est-ce qu’un protocole de macroscopie ?",
+        "answer": "Un document standardisant les pratiques de prélèvement"
+    },
+    {
+        "text": "Pourquoi photographier une pièce ?",
+        "answer": "Pour documenter et illustrer le dossier patient"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce fraîche ?",
+        "answer": "Une pièce non fixée à réception"
+    },
+    {
+        "text": "Quel est le risque d’une pièce fraîche ?",
+        "answer": "Un risque infectieux et de dégradation tissulaire"
+    },
+    {
+        "text": "Qu’est-ce qu’une coupe sériée ?",
+        "answer": "Des sections régulières successives d’une pièce"
+    },
+    {
+        "text": "Pourquoi faire des coupes fines ?",
+        "answer": "Pour mieux visualiser les lésions internes"
+    },
+    {
+        "text": "Que signifie le terme 'bourgeonnant' ?",
+        "answer": "Une lésion en relief se développant vers l’extérieur"
+    },
+    {
+        "text": "Qu’est-ce qu’un ganglion ?",
+        "answer": "Un organe lymphatique de défense immunitaire"
+    },
+    {
+        "text": "Pourquoi prélever les ganglions ?",
+        "answer": "Pour évaluer l’extension d’un cancer"
+    },
+    {
+        "text": "Qu’est-ce qu’un curage ganglionnaire ?",
+        "answer": "L’ablation de plusieurs ganglions d’un territoire"
+    },
+    {
+        "text": "Que signifie pTNM ?",
+        "answer": "Classification anatomopathologique des cancers"
+    },
+    {
+        "text": "Quelle est la fonction de la hotte de macroscopie ?",
+        "answer": "Protéger l’opérateur des vapeurs toxiques"
+    },
+    {
+        "text": "Quel est le risque principal sans hotte ?",
+        "answer": "L’inhalation de formol"
+    },
+    {
+        "text": "Pourquoi changer régulièrement les gants ?",
+        "answer": "Pour éviter les contaminations croisées"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement extemporané ?",
+        "answer": "Un examen rapide réalisé pendant l’intervention"
+    },
+    {
+        "text": "Quel tissu est souvent analysé en extemporané ?",
+        "answer": "Les marges chirurgicales"
+    },
+    {
+        "text": "Qu’est-ce qu’une lésion nécrotique ?",
+        "answer": "Une zone de tissu mort"
+    },
+    {
+        "text": "Pourquoi décrire la couleur d’une lésion ?",
+        "answer": "Elle peut orienter le diagnostic"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce fragmentée ?",
+        "answer": "Une pièce reçue en plusieurs morceaux"
+    },
+    {
+        "text": "Quel est le risque d’une pièce fragmentée ?",
+        "answer": "La perte d’orientation des marges"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement exhaustif ?",
+        "answer": "L’analyse complète de toute la pièce"
+    },
+    {
+        "text": "Quand réalise-t-on un prélèvement exhaustif ?",
+        "answer": "Pour les petites pièces ou lésions à risque"
+    },
+    {
+        "text": "Qu’est-ce qu’un tissu fibreux ?",
+        "answer": "Un tissu riche en fibres de collagène"
+    },
+    {
+        "text": "Pourquoi décrire la consistance ?",
+        "answer": "Elle donne des indices sur la nature de la lésion"
+    },
+    {
+        "text": "Qu’est-ce qu’une lésion polypoïde ?",
+        "answer": "Une lésion en forme de polype"
+    },
+    {
+        "text": "Qu’est-ce qu’une base d’implantation ?",
+        "answer": "La zone d’attache d’une lésion"
+    },
+    {
+        "text": "Pourquoi identifier la base ?",
+        "answer": "Pour analyser la profondeur d’invasion"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce orientée par le chirurgien ?",
+        "answer": "Une pièce marquée par fils ou clips"
+    },
+    {
+        "text": "Que faire en cas de discordance d’identification ?",
+        "answer": "Suspendre l’analyse et alerter le responsable"
+    },
+    {
+        "text": "Qu’est-ce qu’un incident qualité ?",
+        "answer": "Un événement pouvant impacter le résultat"
+    },
+    {
+        "text": "Pourquoi documenter les incidents ?",
+        "answer": "Pour l’amélioration continue de la qualité"
+    },
+    {
+        "text": "Quelle norme qualité s’applique aux labos ACP ?",
+        "answer": "La norme ISO 15189"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement tumoral ?",
+        "answer": "Un prélèvement ciblant une tumeur"
+    },
+    {
+        "text": "Pourquoi prélever les zones saines adjacentes ?",
+        "answer": "Pour comparer tissu sain et pathologique"
+    },
+    {
+        "text": "Qu’est-ce qu’une macroscopie descriptive ?",
+        "answer": "Une description détaillée sans interprétation"
+    },
+    {
+        "text": "Qui interprète les résultats ?",
+        "answer": "Le médecin anatomopathologiste"
+    },
+    {
+        "text": "Pourquoi la rigueur est essentielle en macroscopie ?",
+        "answer": "Car elle conditionne la fiabilité du diagnostic"
+    },
+    {
+        "text": "Qu’est-ce qu’un adénocarcinome ?",
+        "answer": "Une tumeur maligne développée à partir d’un épithélium glandulaire"
+    },
+    {
+        "text": "Quelle est l’aspect macroscopique fréquent d’un adénocarcinome colique ?",
+        "answer": "Une lésion sténosante, infiltrante, blanchâtre et indurée"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome épidermoïde ?",
+        "answer": "Un cancer issu de l’épithélium malpighien"
+    },
+    {
+        "text": "Quel aspect macroscopique évoque un carcinome épidermoïde ?",
+        "answer": "Une lésion ulcéro-bourgeonnante, ferme et irrégulière"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome in situ ?",
+        "answer": "Une prolifération maligne limitée à l’épithélium sans franchissement de la membrane basale"
+    },
+    {
+        "text": "Une tumeur in situ est-elle visible macroscopiquement ?",
+        "answer": "Généralement non ou très discrètement"
+    },
+    {
+        "text": "Qu’est-ce qu’un sarcome ?",
+        "answer": "Une tumeur maligne d’origine mésenchymateuse"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique fréquent d’un sarcome ?",
+        "answer": "Une masse volumineuse, charnue, hétérogène avec nécrose"
+    },
+    {
+        "text": "Qu’est-ce qu’un GIST ?",
+        "answer": "Une tumeur stromale gastro-intestinale"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique d’un GIST ?",
+        "answer": "Une masse bien limitée, sous-muqueuse, souvent charnue"
+    },
+    {
+        "text": "Qu’est-ce qu’un lymphome ?",
+        "answer": "Une prolifération maligne du tissu lymphoïde"
+    },
+    {
+        "text": "Quel aspect macroscopique évoque un lymphome digestif ?",
+        "answer": "Un épaississement pariétal homogène sans sténose franche"
+    },
+    {
+        "text": "Qu’est-ce qu’une tumeur infiltrante ?",
+        "answer": "Une tumeur qui envahit progressivement les tissus adjacents"
+    },
+    {
+        "text": "Qu’est-ce qu’une tumeur exophytique ?",
+        "answer": "Une tumeur se développant vers la lumière d’un organe"
+    },
+    {
+        "text": "Qu’est-ce qu’une tumeur endophytique ?",
+        "answer": "Une tumeur se développant en profondeur dans la paroi"
+    },
+    {
+        "text": "Quel cancer donne souvent un aspect en cuirasse ?",
+        "answer": "Le carcinome gastrique diffus"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome gastrique diffus ?",
+        "answer": "Un cancer infiltrant diffus sans masse individualisée"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome lobulaire du sein ?",
+        "answer": "Un cancer infiltrant diffus souvent peu visible macroscopiquement"
+    },
+    {
+        "text": "Pourquoi le carcinome lobulaire est difficile à voir ?",
+        "answer": "Car il infiltre sans former de masse nette"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique du carcinome canalaire du sein ?",
+        "answer": "Une masse dure, étoilée, blanchâtre"
+    },
+    {
+        "text": "Qu’est-ce qu’une lésion spiculée ?",
+        "answer": "Une lésion aux contours irréguliers en étoile"
+    },
+    {
+        "text": "Qu’est-ce qu’une nécrose tumorale ?",
+        "answer": "Une destruction tissulaire liée à la croissance rapide de la tumeur"
+    },
+    {
+        "text": "Pourquoi prélever les zones nécrotiques ?",
+        "answer": "Pour évaluer l’agressivité tumorale"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome hépatocellulaire ?",
+        "answer": "Un cancer primitif du foie"
+    },
+    {
+        "text": "Quel aspect macroscopique évoque un carcinome hépatocellulaire ?",
+        "answer": "Un nodule jaunâtre, parfois encapsulé"
+    },
+    {
+        "text": "Qu’est-ce qu’une métastase ?",
+        "answer": "Un foyer tumoral secondaire à distance de la tumeur primitive"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique d’une métastase hépatique ?",
+        "answer": "Des nodules multiples, blanchâtres et bien limités"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer multifocal ?",
+        "answer": "Un cancer avec plusieurs foyers distincts"
+    },
+    {
+        "text": "Pourquoi identifier les foyers multiples ?",
+        "answer": "Pour le stadage et la prise en charge thérapeutique"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer synchrone ?",
+        "answer": "Deux cancers primitifs diagnostiqués simultanément"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer métachrone ?",
+        "answer": "Un second cancer apparaissant secondairement"
+    },
+    {
+        "text": "Qu’est-ce qu’un envahissement vasculaire ?",
+        "answer": "La présence de cellules tumorales dans un vaisseau"
+    },
+    {
+        "text": "Pourquoi rechercher l’envahissement vasculaire ?",
+        "answer": "Il est un facteur de mauvais pronostic"
+    },
+    {
+        "text": "Qu’est-ce qu’un envahissement périnerveux ?",
+        "answer": "La diffusion tumorale le long des nerfs"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique d’un cholangiocarcinome ?",
+        "answer": "Une tumeur infiltrante fibreuse des voies biliaires"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome rénal à cellules claires ?",
+        "answer": "Un cancer du rein riche en lipides"
+    },
+    {
+        "text": "Quel est son aspect macroscopique ?",
+        "answer": "Une tumeur jaune, hémorragique et nécrotique"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome papillaire ?",
+        "answer": "Une tumeur formant des structures papillaires"
+    },
+    {
+        "text": "Quel organe est fréquemment concerné par les carcinomes papillaires ?",
+        "answer": "La thyroïde"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer médullaire de la thyroïde ?",
+        "answer": "Un cancer issu des cellules C"
+    },
+    {
+        "text": "Quel aspect macroscopique évoque un cancer médullaire ?",
+        "answer": "Une masse ferme, blanchâtre, mal limitée"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome urothélial ?",
+        "answer": "Un cancer de l’épithélium des voies urinaires"
+    },
+    {
+        "text": "Quel est son aspect macroscopique fréquent ?",
+        "answer": "Une lésion papillaire fragile"
+    },
+    {
+        "text": "Qu’est-ce qu’un score de Gleason ?",
+        "answer": "Un score histopronostique du cancer de la prostate"
+    },
+    {
+        "text": "Pourquoi la macroscopie est-elle difficile dans la prostate ?",
+        "answer": "Les lésions sont souvent peu visibles"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer mucineux ?",
+        "answer": "Un cancer riche en mucus extracellulaire"
+    },
+    {
+        "text": "Quel aspect macroscopique évoque un cancer mucineux ?",
+        "answer": "Une tumeur gélatineuse"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer à petites cellules ?",
+        "answer": "Un cancer neuroendocrine agressif"
+    },
+    {
+        "text": "Quel est l’aspect macroscopique de ces cancers ?",
+        "answer": "Une masse friable, nécrotique"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome neuroendocrine ?",
+        "answer": "Un cancer dérivé des cellules neuroendocrines"
+    },
+    {
+        "text": "Quel organe est fréquemment concerné ?",
+        "answer": "Le poumon"
+    },
+    {
+        "text": "Pourquoi multiplier les prélèvements tumoraux ?",
+        "answer": "Pour évaluer l’hétérogénéité tumorale"
+    },
+    {
+        "text": "Qu’est-ce qu’une marge envahie macroscopiquement ?",
+        "answer": "Une marge suspecte visible à l’œil nu"
+    },
+    {
+        "text": "Peut-on conclure macroscopiquement sur une marge ?",
+        "answer": "Non, seule l’histologie confirme"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement ciblé ?",
+        "answer": "Un prélèvement orienté sur une zone suspecte"
+    },
+    {
+        "text": "Pourquoi prélever l’interface tumeur-tissu sain ?",
+        "answer": "Pour analyser l’invasion"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer infiltrant non spécifique ?",
+        "answer": "Un cancer sans différenciation particulière"
+    },
+    {
+        "text": "Quel est le rôle pronostique de la taille tumorale ?",
+        "answer": "Elle influence le stade TNM"
+    },
+    {
+        "text": "Pourquoi mesurer précisément une tumeur ?",
+        "answer": "Pour le classement pT"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce oncologique complexe ?",
+        "answer": "Une pièce volumineuse avec plusieurs structures anatomiques"
+    },
+    {
+        "text": "Pourquoi utiliser des schémas en macroscopie ?",
+        "answer": "Pour améliorer la compréhension de l’orientation"
+    },
+    {
+        "text": "Qu’est-ce qu’une extension extracapsulaire ?",
+        "answer": "Le dépassement de la capsule d’un organe par la tumeur"
+    },
+    {
+        "text": "Quel est son impact ?",
+        "answer": "Un facteur de mauvais pronostic"
+    },
+    {
+        "text": "Pourquoi la macroscopie est-elle déterminante en cancérologie ?",
+        "answer": "Elle conditionne la qualité du diagnostic histologique et du stadage"
+    },
+    {
+        "text": "Quelle est la première information à vérifier lors de la réception d’une pièce opératoire ?",
+        "answer": "La concordance identité patient / prescription / étiquetage du contenant"
+    },
+    {
+        "text": "Pourquoi une pièce doit-elle être mesurée avant fixation ?",
+        "answer": "La fixation peut modifier les dimensions tissulaires"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce monobloc ?",
+        "answer": "Une pièce retirée en un seul fragment anatomique"
+    },
+    {
+        "text": "Quel est l’intérêt oncologique d’une exérèse monobloc ?",
+        "answer": "Elle permet une évaluation fiable des marges chirurgicales"
+    },
+    {
+        "text": "Qu’est-ce qu’une résection R1 macroscopiquement suspecte ?",
+        "answer": "Une tumeur visible au contact d’une marge"
+    },
+    {
+        "text": "Pourquoi une marge macroscopiquement saine peut être R1 ?",
+        "answer": "L’infiltration tumorale peut être microscopique"
+    },
+    {
+        "text": "Qu’est-ce qu’un plan de clivage ?",
+        "answer": "Une limite anatomique naturelle entre deux tissus"
+    },
+    {
+        "text": "Pourquoi identifier les plans de clivage ?",
+        "answer": "Pour évaluer l’extension tumorale"
+    },
+    {
+        "text": "Qu’est-ce qu’un envahissement capsulaire ?",
+        "answer": "La traversée de la capsule d’un organe par la tumeur"
+    },
+    {
+        "text": "Quel cancer est classiquement évalué sur l’envahissement capsulaire ?",
+        "answer": "Le cancer thyroïdien"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce orientée par encrage différentiel ?",
+        "answer": "Une pièce dont chaque marge est marquée par une couleur différente"
+    },
+    {
+        "text": "Pourquoi utiliser plusieurs couleurs d’encre ?",
+        "answer": "Pour identifier précisément chaque marge chirurgicale"
+    },
+    {
+        "text": "Quel est le piège principal lors de l’encrage ?",
+        "answer": "La diffusion de l’encre dans les fissures tissulaires"
+    },
+    {
+        "text": "Qu’est-ce qu’un faux envahissement de marge ?",
+        "answer": "Un artefact lié à l’encrage ou à la manipulation"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce de colectomie oncologique ?",
+        "answer": "Une pièce comprenant le segment colique et son mésocôlon"
+    },
+    {
+        "text": "Pourquoi analyser le mésocôlon ?",
+        "answer": "Il contient les ganglions et les marges vasculaires"
+    },
+    {
+        "text": "Qu’est-ce que la marge radiaire colique ?",
+        "answer": "La marge profonde correspondant au mésocôlon"
+    },
+    {
+        "text": "Quelle est la marge la plus pronostique en cancer du rectum ?",
+        "answer": "La marge circonférentielle"
+    },
+    {
+        "text": "Qu’est-ce qu’une TME ?",
+        "answer": "Une exérèse totale du mésorectum"
+    },
+    {
+        "text": "Quel est le critère macroscopique d’une TME de qualité ?",
+        "answer": "Un mésorectum intact et lisse"
+    },
+    {
+        "text": "Qu’est-ce qu’un grading macroscopique ?",
+        "answer": "Une estimation de l’agressivité basée sur l’aspect"
+    },
+    {
+        "text": "Pourquoi le grading macroscopique est-il limité ?",
+        "answer": "Il ne remplace jamais l’analyse histologique"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer infiltrant diffus ?",
+        "answer": "Un cancer s’étendant sans former de masse visible"
+    },
+    {
+        "text": "Quel est le piège macroscopique du carcinome lobulaire du sein ?",
+        "answer": "L’absence de masse nette"
+    },
+    {
+        "text": "Qu’est-ce qu’un carcinome triple négatif ?",
+        "answer": "Un cancer du sein sans expression hormonale ni HER2"
+    },
+    {
+        "text": "Son aspect macroscopique est-il spécifique ?",
+        "answer": "Non, il est variable et non spécifique"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement cartographié ?",
+        "answer": "Un prélèvement localisé précisément sur un schéma"
+    },
+    {
+        "text": "Pourquoi cartographier une pièce complexe ?",
+        "answer": "Pour corréler macroscopie et histologie"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce d’hystérectomie carcinologique ?",
+        "answer": "Utérus avec paramètres ± annexes"
+    },
+    {
+        "text": "Pourquoi mesurer l’épaisseur du myomètre ?",
+        "answer": "Pour évaluer la profondeur d’invasion tumorale"
+    },
+    {
+        "text": "Quel cancer nécessite l’évaluation du col et de l’isthme ?",
+        "answer": "Le cancer de l’endomètre"
+    },
+    {
+        "text": "Qu’est-ce qu’une invasion myométriale > 50 % ?",
+        "answer": "Un critère de mauvais pronostic"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer séreux de haut grade ?",
+        "answer": "Un cancer ovarien agressif"
+    },
+    {
+        "text": "Quel est son aspect macroscopique ?",
+        "answer": "Une tumeur solide, friable, souvent bilatérale"
+    },
+    {
+        "text": "Pourquoi ouvrir l’ovaire selon un plan systématique ?",
+        "answer": "Pour ne pas manquer de petites lésions"
+    },
+    {
+        "text": "Qu’est-ce qu’un borderline ovarien ?",
+        "answer": "Une tumeur à malignité intermédiaire"
+    },
+    {
+        "text": "Son aspect macroscopique est-il discriminant ?",
+        "answer": "Non, l’histologie est indispensable"
+    },
+    {
+        "text": "Qu’est-ce qu’une pièce d’amputation mammaire ?",
+        "answer": "Sein complet avec peau, plaque aréolo-mamelonnaire"
+    },
+    {
+        "text": "Pourquoi encrer la peau ?",
+        "answer": "Pour évaluer un envahissement cutané"
+    },
+    {
+        "text": "Qu’est-ce qu’un envahissement du mamelon ?",
+        "answer": "Une extension tumorale vers la plaque aréolo-mamelonnaire"
+    },
+    {
+        "text": "Qu’est-ce qu’un ganglion sentinelle ?",
+        "answer": "Premier ganglion de drainage lymphatique tumoral"
+    },
+    {
+        "text": "Pourquoi le disséquer entièrement ?",
+        "answer": "Pour détecter des micrométastases"
+    },
+    {
+        "text": "Qu’est-ce qu’une micrométastase ?",
+        "answer": "Un foyer tumoral entre 0,2 et 2 mm"
+    },
+    {
+        "text": "Peut-on suspecter une micrométastase macroscopiquement ?",
+        "answer": "Non"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer pancréatique ductal ?",
+        "answer": "Un adénocarcinome des canaux pancréatiques"
+    },
+    {
+        "text": "Quel est son aspect macroscopique ?",
+        "answer": "Une tumeur infiltrante, blanchâtre, mal limitée"
+    },
+    {
+        "text": "Quelle est la marge critique du Whipple ?",
+        "answer": "La marge rétro-péritonéale"
+    },
+    {
+        "text": "Pourquoi cette marge est-elle difficile ?",
+        "answer": "Elle est mal définie anatomiquement"
+    },
+    {
+        "text": "Qu’est-ce qu’un prélèvement séquentiel ?",
+        "answer": "Des prélèvements successifs suivant un axe précis"
+    },
+    {
+        "text": "Pourquoi prélever les zones hémorragiques ?",
+        "answer": "Elles peuvent correspondre à une tumeur agressive"
+    },
+    {
+        "text": "Qu’est-ce qu’un cancer rénal multifocal ?",
+        "answer": "Présence de plusieurs nodules tumoraux"
+    },
+    {
+        "text": "Pourquoi prélever le sinus rénal ?",
+        "answer": "Il contient les structures vasculaires"
+    },
+    {
+        "text": "Qu’est-ce qu’une extension veineuse tumorale ?",
+        "answer": "Une progression tumorale dans une veine"
+    },
+    {
+        "text": "Quel cancer est connu pour cela ?",
+        "answer": "Le carcinome rénal"
+    },
+    {
+        "text": "Qu’est-ce qu’un artefact de fixation ?",
+        "answer": "Une altération tissulaire non pathologique"
+    },
+    {
+        "text": "Pourquoi éviter une fixation trop prolongée ?",
+        "answer": "Elle altère les analyses complémentaires"
+    },
+    {
+        "text": "Quel est le rôle stratégique du technicien en macroscopie ?",
+        "answer": "Garantir un prélèvement optimal pour le diagnostic et le pronostic"
+    }
+]

@@ -1,0 +1,20 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.question-card {
+	padding: 2em;
+	background-color: #1c1d1d;
+	border: solid 1px #ccc;
+	border-radius: 10px;
+	margin-bottom: 1em;
+}
+
+.question-answer {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: solid 1px #fff;
+}
