@@ -14,7 +14,7 @@ export default function App() {
         Base de données de {Object.keys(questions).length} questions sur le DU.
       </p>
       <p>
-        Made with ❤️ by <a href="https://github.com/florentlavignotte">Florent Lavignotte</a>
+        Made with ❤️ by <a href="https://github.com/Sparky783" target="_blank">Florent Lavignotte</a>
       </p>
     </div>
   </>
