@@ -45,7 +45,7 @@ export default function Home() {
       </div>
 
       <button onClick={revealAnswer}>
-        {showAnswer ? "Révéler la réponse" : "Question suivante"}
+        {showAnswer ? "Question suivante" : "Révéler la réponse"}
       </button>
     </div>
   )

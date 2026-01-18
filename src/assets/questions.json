@@ -306,5 +306,105 @@
       {
         "text": "Cite cinq maladies granulomateuses.",
         "answer": "Tuberculose, sarcoïdose, maladie de Crohn, maladie de Horton, lèpre."
+      },
+      {
+        "text": "Quelle est la tumeur bénigne qui concerne les fibroblastes ?",
+        "answer": "Le fibrome"
+      },
+      {
+        "text": "Quelle est la tumeur maligne issue des fibroblastes ?",
+        "answer": "Le fibrosarcome"
+      },
+      {
+        "text": "Quelle tumeur bénigne concerne les cellules musculaires lisses ?",
+        "answer": "Le léiomyome"
+      },
+      {
+        "text": "Quelle est la tumeur maligne des cellules musculaires striées ?",
+        "answer": "Le rhabdomyosarcome"
+      },
+      {
+        "text": "Quelle est la tumeur bénigne dérivée des adipocytes ?",
+        "answer": "Le lipome"
+      },
+      {
+        "text": "Quelle tumeur maligne provient des cellules endothéliales ?",
+        "answer": "L’angiosarcome"
+      },
+      {
+        "text": "Quelle est la tumeur bénigne des cellules cartilagineuses ?",
+        "answer": "Le chondrome"
+      },
+      {
+        "text": "Quelle tumeur maligne est issue des cellules osseuses ?",
+        "answer": "L’ostéosarcome"
+      },
+      {
+        "text": "Quelle tumeur bénigne concerne les mélanocytes ?",
+        "answer": "Le nævus"
+      },
+      {
+        "text": "Quelle est la tumeur maligne des mélanocytes ?",
+        "answer": "Le mélanome"
+      },
+      {
+        "text": "Un fibrome concerne quel type de cellules du tissu conjonctif ?",
+        "answer": "Les fibroblastes"
+      },
+      {
+        "text": "Un fibrosarcome dérive de quelles cellules ?",
+        "answer": "Les fibroblastes"
+      },
+      {
+        "text": "Un léiomyome provient de quel type de cellules ?",
+        "answer": "Les cellules musculaires lisses"
+      },
+      {
+        "text": "Un rhabdomyosarcome concerne quelles cellules ?",
+        "answer": "Les cellules musculaires striées"
+      },
+      {
+        "text": "Un lipome est issu de quel type cellulaire ?",
+        "answer": "Les adipocytes"
+      },
+      {
+        "text": "Un angiosarcome concerne quelles cellules ?",
+        "answer": "Les cellules endothéliales"
+      },
+      {
+        "text": "Un chondrosarcome dérive de quelles cellules ?",
+        "answer": "Les cellules cartilagineuses"
+      },
+      {
+        "text": "Un ostéome concerne quel tissu ?",
+        "answer": "Le tissu osseux"
+      },
+      {
+        "text": "Un mélanome dérive de quelles cellules ?",
+        "answer": "Les mélanocytes"
+      },
+      {
+        "text": "Un schwannome concerne quel type de tissu ou de cellules ?",
+        "answer": "Les gaines des nerfs périphériques (cellules de Schwann)"
+      },
+      {
+        "text": "Quelle est la différence de suffixe entre une tumeur bénigne et maligne du tissu conjonctif ?",
+        "answer": "Les tumeurs bénignes se terminent par -ome, les tumeurs malignes par -sarcome"
+      },
+      {
+        "text": "À quel grand groupe appartiennent les lipomes, fibromes et chondromes ?",
+        "answer": "Aux tumeurs conjonctives"
+      },
+      {
+        "text": "Les carcinomes dérivent de quel type de tissu ?",
+        "answer": "Du tissu épithélial"
+      },
+      {
+        "text": "Les sarcomes sont-ils plutôt épithéliaux ou conjonctifs ?",
+        "answer": "Conjonctifs"
+      },
+      {
+        "text": "À partir de quel tissu se développent les tumeurs hématopoïétiques ?",
+        "answer": "Du tissu hématopoïétique (cellules productrices du sang)"
       }
 ]
