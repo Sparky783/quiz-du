@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useMemo, useState } from "react"
 import questions from '../assets/questions.json'
 
 export default function Home() {
@@ -25,7 +25,7 @@ export default function Home() {
     })
   }
 
-  useEffect(() => {
+  useMemo(() => {
     loadQuestion()
   }, [])
 
