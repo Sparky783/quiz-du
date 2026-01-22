@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
-import questions from '../assets/questions.json'
 import { motion } from 'motion/react'
+import { useQuestions } from '../hooks/useQuestions'
 
 export default function Questions() {
   const ulVariants = {
@@ -12,6 +12,8 @@ export default function Questions() {
     visible: { opacity: 1, y: 0 }
   }
 
+  const { questionList } = useQuestions()
+
   return (
     <div className="questions-page">
       <div className="questions-top">
@@ -19,9 +21,9 @@ export default function Questions() {
         <Link to="/">Retour</Link>
       </div>
       <motion.ul className='question-list' initial="hidden" animate="visible" variants={ulVariants}>
-        {Object.entries(questions).map(([key, question]) => (
-          <motion.li key={key} className='question-card' variants={liVariants}>
-            <div className='question-number'>{parseInt(key) + 1}</div>
+        {questionList.map(question => (
+          <motion.li key={question.number} className='question-card' variants={liVariants}>
+            <div className='question-number'>{question.number}</div>
             <div className='question-content'>
               <div>
                 <strong>Q:</strong>
