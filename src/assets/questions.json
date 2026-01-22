@@ -194,217 +194,217 @@
     {
         "text": "Qu'est ce qu'une inflammation ?",
         "answer": "Réponse d’un tissu conjonctif vascularisé à toute forme d’agression visant à faire disparaître l’agent agresseur, avec accumulation de liquide et de leucocytes dans les tissus extravasculaires."
-      },
-      {
+    },
+    {
         "text": "Dans quel type de tissu se situe toujours l’inflammation ?",
         "answer": "Dans le tissu conjonctif vascularisé."
-      },
-      {
+    },
+    {
         "text": "Pourquoi la cornée est-elle protégée de l’inflammation ?",
         "answer": "Parce qu’elle est un tissu conjonctif non vascularisé."
-      },
-      {
+    },
+    {
         "text": "Quels sont les cinq signes cliniques de l’inflammation aiguë ?",
         "answer": "Chaleur, rougeur, tuméfaction, douleur, perte de fonction."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce qu’une maladie aiguë ?",
         "answer": "Maladie à apparition brutale, évolution rapide et de courte durée."
-      },
-      {
+    },
+    {
         "text": "L’inflammation aiguë est-elle toujours transitoire ?",
         "answer": "Oui en principe, mais elle peut évoluer vers la chronicité."
-      },
-      {
+    },
+    {
         "text": "Cite cinq types cellulaires intervenant dans l’inflammation.",
         "answer": "Macrophages, polynucléaires neutrophiles, mastocytes, lymphocytes, plaquettes, fibroblastes."
-      },
-      {
+    },
+    {
         "text": "Quelles cellules prédominent dans l’inflammation aiguë ?",
         "answer": "Les polynucléaires neutrophiles et les macrophages."
-      },
-      {
+    },
+    {
         "text": "Quelles cellules prédominent dans l’inflammation chronique ?",
         "answer": "Les macrophages, lymphocytes, plasmocytes et mastocytes."
-      },
-      {
+    },
+    {
         "text": "Quel est le rôle des macrophages dans l’inflammation ?",
         "answer": "Phagocytose, détersion du foyer inflammatoire et participation à la réparation."
-      },
-      {
+    },
+    {
         "text": "Quelles sont les trois phases de l’inflammation aiguë ?",
         "answer": "Phase vasculaire, phase cellulaire, phase de résolution."
-      },
-      {
+    },
+    {
         "text": "Décris la phase vasculaire de l’inflammation aiguë.",
         "answer": "Vasodilatation et augmentation de la perméabilité capillaire entraînant un œdème."
-      },
-      {
+    },
+    {
         "text": "Quels médiateurs sont impliqués dans la vasodilatation ?",
         "answer": "IL-1 et TNF."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce que la diapédèse ?",
         "answer": "Passage actif des globules blancs à travers la paroi vasculaire vers le foyer inflammatoire."
-      },
-      {
+    },
+    {
         "text": "Définis la congestion.",
         "answer": "Augmentation de la quantité de sang d’un organe par dilatation du lit vasculaire."
-      },
-      {
+    },
+    {
         "text": "Que se passe-t-il lors de la phase cellulaire ?",
         "answer": "Migration et accumulation des leucocytes et macrophages avec phagocytose."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce qu’un granulome inflammatoire ?",
         "answer": "Ensemble organisé de cellules inflammatoires au sein du foyer lésionnel."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce que la détersion du foyer inflammatoire ?",
         "answer": "Élimination des débris cellulaires par phagocytose, surtout par les macrophages."
-      },
-      {
+    },
+    {
         "text": "Quel est le rôle du complément ?",
         "answer": "Faciliter la phagocytose, attirer les cellules inflammatoires et entraîner la destruction cellulaire."
-      },
-      {
+    },
+    {
         "text": "Que se passe-t-il lors de la phase de résolution ?",
         "answer": "Apoptose des polynucléaires neutrophiles et réparation tissulaire."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce qu’un abcès ?",
         "answer": "Nécrose tissulaire circonscrite contenant du pus composé de polynucléaires altérés."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce qu’une fausse membrane ?",
         "answer": "Dépôt de fibrine adhérent à la surface d’un tissu, signe de perforation."
-      },
-      {
+    },
+    {
         "text": "Définis l’inflammation chronique.",
         "answer": "Persistance de l’inflammation avec destructions cellulaires et réparation par fibrose."
-      },
-      {
+    },
+    {
         "text": "Quelles cellules dominent dans l’inflammation chronique ?",
         "answer": "Macrophages, lymphocytes, plasmocytes et mastocytes."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce que la fibrose ?",
         "answer": "Formation de tissu cicatriciel fibreux."
-      },
-      {
+    },
+    {
         "text": "Définis la cirrhose.",
         "answer": "Processus diffus du foie associant destruction cellulaire et fibrose mutilante délimitant des nodules de régénération."
-      },
-      {
+    },
+    {
         "text": "Qu’est-ce que l’hypersensibilité de type IV ?",
         "answer": "Réaction inflammatoire chronique médiée par les lymphocytes T."
-      },
-      {
+    },
+    {
         "text": "À quel type d’inflammation est associée l’hypersensibilité de type IV ?",
         "answer": "À l’inflammation granulomateuse."
-      },
-      {
+    },
+    {
         "text": "Cite cinq maladies granulomateuses.",
         "answer": "Tuberculose, sarcoïdose, maladie de Crohn, maladie de Horton, lèpre."
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur bénigne qui concerne les fibroblastes ?",
         "answer": "Le fibrome"
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur maligne issue des fibroblastes ?",
         "answer": "Le fibrosarcome"
-      },
-      {
+    },
+    {
         "text": "Quelle tumeur bénigne concerne les cellules musculaires lisses ?",
         "answer": "Le léiomyome"
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur maligne des cellules musculaires striées ?",
         "answer": "Le rhabdomyosarcome"
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur bénigne dérivée des adipocytes ?",
         "answer": "Le lipome"
-      },
-      {
+    },
+    {
         "text": "Quelle tumeur maligne provient des cellules endothéliales ?",
         "answer": "L’angiosarcome"
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur bénigne des cellules cartilagineuses ?",
         "answer": "Le chondrome"
-      },
-      {
+    },
+    {
         "text": "Quelle tumeur maligne est issue des cellules osseuses ?",
         "answer": "L’ostéosarcome"
-      },
-      {
+    },
+    {
         "text": "Quelle tumeur bénigne concerne les mélanocytes ?",
         "answer": "Le nævus"
-      },
-      {
+    },
+    {
         "text": "Quelle est la tumeur maligne des mélanocytes ?",
         "answer": "Le mélanome"
-      },
-      {
+    },
+    {
         "text": "Un fibrome concerne quel type de cellules du tissu conjonctif ?",
         "answer": "Les fibroblastes"
-      },
-      {
+    },
+    {
         "text": "Un fibrosarcome dérive de quelles cellules ?",
         "answer": "Les fibroblastes"
-      },
-      {
+    },
+    {
         "text": "Un léiomyome provient de quel type de cellules ?",
         "answer": "Les cellules musculaires lisses"
-      },
-      {
+    },
+    {
         "text": "Un rhabdomyosarcome concerne quelles cellules ?",
         "answer": "Les cellules musculaires striées"
-      },
-      {
+    },
+    {
         "text": "Un lipome est issu de quel type cellulaire ?",
         "answer": "Les adipocytes"
-      },
-      {
+    },
+    {
         "text": "Un angiosarcome concerne quelles cellules ?",
         "answer": "Les cellules endothéliales"
-      },
-      {
+    },
+    {
         "text": "Un chondrosarcome dérive de quelles cellules ?",
         "answer": "Les cellules cartilagineuses"
-      },
-      {
+    },
+    {
         "text": "Un ostéome concerne quel tissu ?",
         "answer": "Le tissu osseux"
-      },
-      {
+    },
+    {
         "text": "Un mélanome dérive de quelles cellules ?",
         "answer": "Les mélanocytes"
-      },
-      {
+    },
+    {
         "text": "Un schwannome concerne quel type de tissu ou de cellules ?",
         "answer": "Les gaines des nerfs périphériques (cellules de Schwann)"
-      },
-      {
+    },
+    {
         "text": "Quelle est la différence de suffixe entre une tumeur bénigne et maligne du tissu conjonctif ?",
         "answer": "Les tumeurs bénignes se terminent par -ome, les tumeurs malignes par -sarcome"
-      },
-      {
+    },
+    {
         "text": "À quel grand groupe appartiennent les lipomes, fibromes et chondromes ?",
         "answer": "Aux tumeurs conjonctives"
-      },
-      {
+    },
+    {
         "text": "Les carcinomes dérivent de quel type de tissu ?",
         "answer": "Du tissu épithélial"
-      },
-      {
+    },
+    {
         "text": "Les sarcomes sont-ils plutôt épithéliaux ou conjonctifs ?",
         "answer": "Conjonctifs"
-      },
-      {
+    },
+    {
         "text": "À partir de quel tissu se développent les tumeurs hématopoïétiques ?",
         "answer": "Du tissu hématopoïétique (cellules productrices du sang)"
-      }
+    }
 ]
