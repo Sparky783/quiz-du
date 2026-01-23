@@ -406,5 +406,141 @@
     {
         "text": "À partir de quel tissu se développent les tumeurs hématopoïétiques ?",
         "answer": "Du tissu hématopoïétique (cellules productrices du sang)"
-    }
+    },
+    {
+        "text": "Qu’est-ce qu’un danger ?",
+        "answer": "Propriété ou capacité intrinsèque par laquelle une matière, un matériel, une méthode ou une pratique de travail est susceptible de causer un dommage."
+      },
+      {
+        "text": "Qu’est-ce qu’un risque ?",
+        "answer": "Combinaison de la probabilité et de la conséquence de la survenue d’un événement dangereux spécifié."
+      },
+      {
+        "text": "Quelles sont les cibles du danger ?",
+        "answer": "Les personnes, les biens et l’environnement."
+      },
+      {
+        "text": "Quels sont les trois types de facteurs de risque ?",
+        "answer": "Techniques, humains et organisationnels."
+      },
+      {
+        "text": "Donne des exemples de facteurs de risque techniques.",
+        "answer": "Toxicité des produits, ergonomie des postes de travail, ventilation."
+      },
+      {
+        "text": "Donne des exemples de facteurs de risque humains.",
+        "answer": "Formation, information, respect des consignes de sécurité."
+      },
+      {
+        "text": "Donne des exemples de facteurs de risque organisationnels.",
+        "answer": "Exigence de productivité, management, maîtrise des processus."
+      },
+      {
+        "text": "Quels sont les types de dommages possibles ?",
+        "answer": "Personnes (accident du travail, maladie professionnelle), biens (incendie, explosion, destruction du matériel), environnement (pollution)."
+      },
+      {
+        "text": "Quelles sont les particularités du risque chimique en anapath ?",
+        "answer": "Diversité des agents chimiques, proportion importante d’agents CMR, automatisation moins importante."
+      },
+      {
+        "text": "À quoi sert la réglementation CLP ?",
+        "answer": "À réglementer l’étiquetage et l’emballage des produits chimiques."
+      },
+      {
+        "text": "Combien existe-t-il de familles de danger selon le CLP ?",
+        "answer": "Trois familles : danger pour la personne, les biens et l’environnement."
+      },
+      {
+        "text": "Combien y a-t-il de classes de danger dans le CLP ?",
+        "answer": "28 classes de danger : 16 physiques, 10 pour la santé et 2 pour l’environnement."
+      },
+      {
+        "text": "Combien de pictogrammes comporte le CLP ?",
+        "answer": "9 pictogrammes."
+      },
+      {
+        "text": "Quelles sont les mentions d’avertissement du CLP ?",
+        "answer": "Danger et Attention."
+      },
+      {
+        "text": "Que signifie la mention d’avertissement « Danger » ?",
+        "answer": "Elle correspond aux catégories de dangers les plus graves."
+      },
+      {
+        "text": "Que signifie la mention d’avertissement « Attention » ?",
+        "answer": "Elle correspond aux catégories de dangers les moins graves."
+      },
+      {
+        "text": "À quoi correspondent les phrases H ?",
+        "answer": "Aux mentions de danger décrivant la nature et le degré du danger."
+      },
+      {
+        "text": "À quoi correspondent les phrases H200, H300 et H400 ?",
+        "answer": "H200 : dangers physiques, H300 : dangers pour la santé, H400 : dangers pour l’environnement."
+      },
+      {
+        "text": "À quoi correspondent les phrases P ?",
+        "answer": "Aux conseils de prudence."
+      },
+      {
+        "text": "À quoi servent les phrases EUH ?",
+        "answer": "À fournir des informations supplémentaires sur les dangers."
+      },
+      {
+        "text": "À quoi correspondent les catégories de phrases P100 à P500 ?",
+        "answer": "P100 : générales, P200 : prévention, P300 : intervention, P400 : stockage, P500 : élimination."
+      },
+      {
+        "text": "Quels éléments doit contenir une étiquette CLP ?",
+        "answer": "Identité du fournisseur, identification du produit, pictogrammes, mention d’avertissement, phrases H, phrases P, phrases EUH, quantité nominale pour les produits destinés au public."
+      },
+      {
+        "text": "Qu’est-ce qu’une fiche de données de sécurité (FDS) ?",
+        "answer": "Un document regroupant toutes les informations nécessaires à l’utilisation sécurisée d’une substance ou d’un mélange."
+      },
+      {
+        "text": "Quelles informations trouve-t-on dans une FDS ?",
+        "answer": "Identification, dangers, composition, premiers secours, lutte incendie, dispersion accidentelle, manipulation et stockage, contrôle de l’exposition et EPI, propriétés physico-chimiques, stabilité, informations toxicologiques, écotoxicologiques et transport."
+      },
+      {
+        "text": "Quelles sont les voies de pénétration principales des agents chimiques ?",
+        "answer": "La voie respiratoire et la voie cutanée."
+      },
+      {
+        "text": "Quelles sont les voies de pénétration secondaires ?",
+        "answer": "La voie digestive et la voie oculaire."
+      },
+      {
+        "text": "Que sont les EPC ?",
+        "answer": "Les équipements de protection collective."
+      },
+      {
+        "text": "Donne des exemples d’EPC utilisés en ACP.",
+        "answer": "Ventilation générale, enceintes ventilées, hottes avec maintenance et contrôle du débit d’air, capteurs de vérification de ventilation."
+      },
+      {
+        "text": "À quoi sert le test ValiQuest ?",
+        "answer": "À évaluer la quantité d’utilisation des produits et déterminer la durée de changement des filtres."
+      },
+      {
+        "text": "Que sont les EPI ?",
+        "answer": "Les équipements de protection individuelle."
+      },
+      {
+        "text": "Quels EPI sont utilisés en ACP ?",
+        "answer": "Blouses fermées, chaussures fermées, gants, lunettes ou écrans faciaux, appareils de protection respiratoire (APR)."
+      },
+      {
+        "text": "Quels matériels de secours doivent être disponibles ?",
+        "answer": "Rince-œil et douche pour brûlure thermique et chimique."
+      },
+      {
+        "text": "Qu’est-ce que le DISEP ?",
+        "answer": "Le dossier individuel de suivi de l’exposition professionnelle."
+      },
+      {
+        "text": "Avec qui est mis en place le DISEP ?",
+        "answer": "En collaboration avec la médecine du travail."
+      }
 ]
