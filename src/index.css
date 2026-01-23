@@ -75,3 +75,39 @@ button:hover {
 	margin: 0 auto;
 	padding: 2rem;
 }
+
+.switch {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	user-select: none;
+}
+
+.switch-btn {
+	position: relative;
+	background-color: #ccc;
+	display: flex;
+	width: 35px;
+	padding: 3px;
+	margin-right: 5px;
+	border: none;
+	border-radius: 10px;
+	transition: background-color 0.3s;
+}
+
+.switch-btn.active {
+	background-color: #646cff;
+}
+
+.switch-btn-handle {
+	display: block;
+	width: 14px;
+	height: 14px;
+	background-color: #fff;
+	border-radius: 50%;
+	transition: transform 0.3s;
+}
+
+.switch-btn.active .switch-btn-handle {
+	transform: translateX(15px);
+}

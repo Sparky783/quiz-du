@@ -9,7 +9,13 @@
 
 /* Home Page */
 .home-page {
+	display: flex;
+}
+
+.home-page main {
 	text-align: center;
+	max-width: 600px;
+	margin: 0 auto;
 }
 
 .home-card {
@@ -24,6 +30,36 @@
 	margin-top: 1em;
 	padding-top: 1em;
 	border-top: solid 1px #fff;
+}
+
+.home-page aside {
+	width: 300px;
+}
+
+.home-page aside h2 {
+	font-size: 1em;
+	text-align: center;
+}
+
+.home-page aside ul {
+	max-height: 300px;
+	overflow: auto;
+}
+
+.home-page aside ul li {
+	list-style: none;
+	border: 1px solid #ccc;
+	padding: 0.5em;
+	margin: 0.5em 0;
+	border-radius: 10px;
+}
+
+.home-page aside ul li.correct {
+	background-color: #2e4d2e;
+}
+
+.home-page aside ul li.incorrect {
+	background-color: #4d2e2e;
 }
 
 @media (prefers-color-scheme: light) {
